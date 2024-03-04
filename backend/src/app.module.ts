@@ -12,7 +12,7 @@ import { JwtModule } from '@nestjs/jwt';
       host: 'localhost',
       port: 3306,
       username: 'root',
-      password: 'LokiLoki37',
+      password: '',
       database: 'auth',
       entities: [
         User
